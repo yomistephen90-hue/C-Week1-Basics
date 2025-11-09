@@ -14,6 +14,7 @@ int main(){
             printf("%d\t%d\n", celsius, fahr);
             fahr = fahr + step;
     }
-    return 0; // This is a comment
+    return 0;
 };
+
 
